@@ -7,12 +7,12 @@ Here is a good resource from University of Ottawa to brush up on your [basic cal
 ## 2. AI Programming language.
 Once you are confident in your calculas requirement, Let's look at some Artificial Intelligence programming languages. Two most commonly used programming languages in machine learning are Prolog and Lisp.
 We would focus on programming in Prolog for the sake of this course.
-| English | Prolog |
-| ----------- | ----------- |
-| If | 	:- |
-| Not | Not |
-| Or |  ; |
-| and |	, |
+| English   | Prolog    |   
+| :-----------: | :-----------: |    
+| If    | 	:-  |       
+| Not   | Not   |   
+| Or    |  ;    |   
+| and   |	,   |     
 ### Syntax Rules in Prolog:
 1. Variable names start with UpperCase Alphabets.
 2. Predicates(or functions in general) start with lowercase.
