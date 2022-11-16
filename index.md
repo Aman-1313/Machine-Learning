@@ -7,6 +7,17 @@ Here is a good resource from University of Ottawa to brush up on your [basic cal
 ## 2. AI Programming language.
 Once you are confident in your calculas requirement, Let's look at some Artificial Intelligence programming languages. Two most commonly used programming languages in machine learning are Prolog and Lisp.
 We would focus on programming in Prolog for the sake of this course.    
+
+| Programming Languages        | Tools and Technology           | Frameworks and libraries  |
+| :-------------: |:-------------:| :-----:|
+| Java     | Git | Plotly |
+| C#      | MySQL      |   Tidyverse |
+| Javascript | Android Studio      |    Matplotlib |
+| Python | R Studio      |    SciKit-Learn |
+| Dart |    Excel   |    Bootstrap |
+| SQL | Firebase      |   Django  |
+| R | Google Flutter      |  Angular   |    
+
 | English   | Prolog    |   
 | :-----------: | :-----------: |    
 | If    | 	:-  |       
