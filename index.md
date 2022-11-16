@@ -15,12 +15,7 @@ We would focus on programming in Prolog for the sake of this course.
 | Or | ;      |    
 | and | ,      |     
 
-| English   | Prolog    |   
-| :-----------: | :-----------: |    
-| If    | 	:-  |       
-| Not   | Not   |   
-| Or    |  ;    |   
-| and   |	,   |       
+    
 ### Syntax Rules in Prolog:
 1. Variable names start with UpperCase Alphabets.
 2. Predicates(or functions in general) start with lowercase.
